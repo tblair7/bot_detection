@@ -1,0 +1,17 @@
+name: osrs
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - requests
+  - pip
