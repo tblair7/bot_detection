@@ -15,3 +15,6 @@ dependencies:
   - jupyter
   - requests
   - pip
+  - bs4
+  - pyspark
+  - cassandra-driver
